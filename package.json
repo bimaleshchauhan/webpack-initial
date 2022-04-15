@@ -1,0 +1,19 @@
+{
+  "name": "webpack-initial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bimaleshchauhan/webpack-initial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bimaleshchauhan/webpack-initial/issues"
+  },
+  "homepage": "https://github.com/bimaleshchauhan/webpack-initial#readme"
+}
